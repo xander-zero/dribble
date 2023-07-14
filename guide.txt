@@ -1,0 +1,5 @@
+@headlessui/react => for dropdown and box elements
+cloudinary => upload images
+jsonwebtoke - @types/jsonwebtoke
+graphql-request => make graphql action
+next-auth
